@@ -71,7 +71,7 @@ export default function Footer() {
           ))}
         </div>
 
-        <div style={{ fontSize: "0.75rem" }}>© 2025 Pramaan. All rights reserved.</div>
+        <div style={{ fontSize: "0.75rem" }}>© 2026 Pramaan360. All rights reserved.</div>
       </div>
     </footer>
   );
